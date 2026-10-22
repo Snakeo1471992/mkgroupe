@@ -1,0 +1,33 @@
+MK Group Solution - site en HTML
+=================================
+
+Pages
+  index.html                 Accueil
+  a-propos.html              À propos
+  travaux.html               Travaux
+  location-de-materiel.html  Location de matériel
+  contactez-nous.html        Contactez-nous
+
+Dossiers
+  css/style.css    toutes les couleurs et la mise en page (couleurs principales en haut du fichier)
+  js/main.js       menu mobile, galeries photo, filtres, compteurs, formulaire
+  images/          toutes les photos du site
+  images/bg/       images de fond (à télécharger, voir ci-dessous)
+  videos/          vidéos (à télécharger, voir ci-dessous)
+  vendor/          icônes Font Awesome
+
+1) Récupérer les images de fond et les vidéos
+   Certaines images de fond, quelques miniatures et les vidéos n'étaient pas dans les pages enregistrées.
+   Sur Windows : double-cliquez sur telecharger-medias.bat (connexion Internet nécessaire).
+   Sur Mac/Linux : lancez ./telecharger-medias.sh
+   Il les copie depuis le site actuel tant qu'il est en ligne. Le site fonctionne aussi sans elles.
+
+2) Formulaire de contact
+   Il envoie les messages à contact@mkgroupsolution.ma via le service gratuit FormSubmit.
+   Au tout premier envoi, FormSubmit envoie un e-mail de confirmation à cette adresse :
+   il faut cliquer sur le lien d'activation une seule fois. Ensuite les messages arrivent directement.
+   Pour changer l'adresse : dans contactez-nous.html, modifiez l'adresse dans action="https://formsubmit.co/ajax/...".
+
+3) Mise en ligne
+   Copiez tout le dossier tel quel chez n'importe quel hébergeur (Hostinger, Vercel, Netlify, GitHub Pages...).
+   Aucun PHP ni base de données n'est nécessaire.
