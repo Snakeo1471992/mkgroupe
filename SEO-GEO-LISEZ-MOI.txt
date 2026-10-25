@@ -1,0 +1,17 @@
+SEO & GEO — Kracht.ma
+======================
+
+Modifications incluses
+- Titres SEO et descriptions uniques sur les 5 pages HTML existantes.
+- Balises canonical, robots, Open Graph et Twitter Card.
+- Données structurées Schema.org Organization (sans inventer adresse, téléphone ou coordonnées).
+- sitemap.xml et robots.txt.
+
+Important
+- Le site fourni présente actuellement la marque « MK Group Solution », tandis que le domaine demandé est kracht.ma. Vérifiez que cette association est bien voulue avant publication.
+- Les pages présentes dans le menu mais absentes de l’archive (ex. certaines pages de navigation) doivent être vérifiées avant la mise en ligne.
+- Aucun contenu arabe, anglais ou darija n’a été inventé ni ajouté comme fausses pages. Pour le référencement multilingue, créer de vraies pages traduites, avec URLs distinctes et balises hreflang cohérentes.
+- Les villes doivent être ciblées uniquement si l’entreprise y propose réellement ses services. Ne créez pas des pages locales identiques en remplaçant uniquement le nom de la ville.
+- Google ignore la balise meta keywords pour le classement. Les expressions doivent apparaître naturellement dans le contenu utile, les titres, les descriptions d’images et les pages dédiées.
+- Vérifiez les prix, disponibilités, marques, modèles et capacités avant publication.
+- Après publication sur GitHub Pages : vérifiez que le domaine personnalisé est configuré dans Settings > Pages, puis envoyez https://kracht.ma/sitemap.xml dans Google Search Console.
