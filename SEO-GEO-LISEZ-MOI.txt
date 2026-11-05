@@ -2,7 +2,7 @@ SEO & GEO — Kracht.ma
 ======================
 
 Modifications incluses
-- Titres SEO et descriptions uniques sur les 5 pages HTML existantes.
+- Titres SEO et descriptions uniques sur les 5 pages HTML existantes.et en arabe 
 - Balises canonical, robots, Open Graph et Twitter Card.
 - Données structurées Schema.org Organization (sans inventer adresse, téléphone ou coordonnées).
 - sitemap.xml et robots.txt.
